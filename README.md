@@ -1,4 +1,7 @@
-# test coverage for  [sloc (v0.2.0)](https://github.com/flosse/sloc#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-sloc.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sloc) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sloc.svg)](https://travis-ci.org/npmtest/node-npmtest-sloc)
+# npmtest-sloc
+
+#### basic test coverage for  [sloc (v0.2.0)](https://github.com/flosse/sloc#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-sloc.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sloc) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sloc.svg)](https://travis-ci.org/npmtest/node-npmtest-sloc)
+
 #### sloc is a simple tool to count SLOC (source lines of code)
 
 [![NPM](https://nodei.co/npm/sloc.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sloc)
